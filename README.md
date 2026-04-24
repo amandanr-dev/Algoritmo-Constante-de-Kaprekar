@@ -1,8 +1,7 @@
+# Algoritmo Constante de Kaprekar
 
 
 
-
-# Algoritmo Constante de Kaprekar 
 # Entrada numérica
 valor = float(input("Digite um número de até 4 dígitos: "))
 
